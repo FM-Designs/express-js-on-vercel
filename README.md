@@ -1,31 +1,29 @@
-# Express.js on Vercel
+# 🌍 Reality Switch  
+**Web-based AR Adventure Game | Explore • Play • Level Up**
 
-Basic Express.js + Vercel example that serves html content, JSON data and simulates an api route.
+Reality Switch transforms your world into a digital adventure.  
+Complete real-world missions, boost your reputation, and build your AR identity — all from your phone or browser.
 
-## How to Use
+---
 
-You can choose from one of the following two methods to use this repository:
+### ⚡ Core Features
+- 🌐 Web AR missions (no install required)  
+- 🧍 Avatar & digital hub customization  
+- 🏆 Reputation & progress tracking  
+- 💳 Boost credits (future monetization)  
+- 🧪 Beta signup for early access  
 
-### One-Click Deploy
+---
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
+### 🛠 Tech Stack
+**React + Vite + TailwindCSS**  
+Deployable on **Netlify / Vercel / Firebase**  
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/examples/tree/main/solutions/express&project-name=express&repository-name=express)
+---
 
-### Clone and Deploy
-
+### 🚀 Quick Start
 ```bash
-git clone https://github.com/vercel/examples/tree/main/solutions/express
-```
-
-Install the Vercel CLI:
-
-```bash
-npm i -g vercel
-```
-
-Then run the app at the root of the repository:
-
-```bash
-vercel dev
-```
+git clone https://github.com/YOUR_USERNAME/Reality-Switch.git
+cd Reality-Switch
+npm install
+npm run dev
